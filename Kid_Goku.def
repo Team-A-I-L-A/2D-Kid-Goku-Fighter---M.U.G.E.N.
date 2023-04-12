@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Kid Goku"
+displayname ="Kid Goku"
+versiondate =08/11/2020
+mugenversion = 
+author ="Bills Dios"
+pal.defaults =1
+
+[Files]
+sprite =Kid_Goku.sff
+anim =Kid_Goku.air
+sound =Kid_Goku.snd
+cmd =Kid_Goku.cmd
+cns =Kid_Goku.cns
+stcommon =common1.cns
+st =Kid_Goku.cns
+pal1=1.act
+st1 =IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

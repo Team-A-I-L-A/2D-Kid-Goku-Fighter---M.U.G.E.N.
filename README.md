@@ -53,5 +53,5 @@ https://www.youtube.com/watch?v=DJqTM6RzaB4&ab_channel=BillsDios
 * **[Supers.cns]**: This file is the programming code for the character's super powers in the base state and Ohzaru Mode of the anime.
 
 ## Hiring 🤝🏿
+If you wish to hire me, please contact me at the following e-mail address: t3.aila.dev@gmail.com
 
-If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
